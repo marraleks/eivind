@@ -13,9 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Marius | Immersive Portfolio",
-  description:
-    "Creative frontend developer portfolio built with Next.js, Framer Motion, and React Three Fiber.",
+  title: "Eivind | Hjem fra byen",
+  description: "Eivind er full på vei hjem fra byen.",
 };
 
 export default function RootLayout({
